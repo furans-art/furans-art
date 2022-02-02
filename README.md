@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furans-art
-- 👀 I’m interested in Game Development, Software Architectures, Computer Graphics
 - 🌱 I’m currently studying Computer Science at University
+- 👀 I’m interested in Game Development, Software Architectures, Computer Graphics and Art in general
 - 📫 You can find me on Instagram at @furans.art
 
 <!---
